@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kathryn Plata</title>
+    <link>www.katplata.com/</link>
+    <description>Recent content on Kathryn Plata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="www.katplata.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>www.katplata.com/post/post/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>www.katplata.com/post/post/</guid>
+      <description>Hi. I&amp;rsquo;m a data scientist and software developer interested in many things.
+I studied economics and data analysis during my undergrad but somehow ended up in the tech space. Computer vision, network analysis, and visualization are among the myriad of topics that catch my interest&amp;ndash;along with traveling, shopping, and eating cookies!
+I tend to jump around when it comes to learning new tools, languages, etc. so I plan to use this space to journal what I&amp;rsquo;ve learned from my tinkerings.</description>
+    </item>
+    
+    <item>
+      <title>Creating a Personal Website (WIP)</title>
+      <link>www.katplata.com/post/post2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>www.katplata.com/post/post2/</guid>
+      <description>28 October 2018 Since I have a few hours before my flight to Hanoi, I figured I have enough time to write a post and grab some food. About an hour ago I woke up at the Singapore Changi airport and thought to write a post on how I used Hugo to create this site.
+Hugo  is a simple to use static site generator that can be hosted anywhere. You can use CLI commands to create new websites and posts, or use your preferred text editor.</description>
+    </item>
+    
+    <item>
+      <title>Setting Up My Environment</title>
+      <link>www.katplata.com/post/post1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>www.katplata.com/post/post1/</guid>
+      <description>26 October 2018 I just treated myself to a new Macbook pro. My old MacBook was getting too bulky for my taste and starting to show signs of clunking out. I don&amp;rsquo;t anticipate on buying another machine for the next 5 years, but I&amp;rsquo;d like outline my set up for when that day comes.
+(Sidenote: I&amp;rsquo;m currently awaiting my departing flight from SFO to SIN. In anticipation for this 16+ hour flight, I&amp;rsquo;d like to get this done so that I have something to play around with!</description>
+    </item>
+    
+  </channel>
+</rss>

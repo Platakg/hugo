@@ -1,0 +1,24 @@
+languageCode = "en-us"
+title = "Kathryn Plata"
+baseURL = "www.katplata.com"
+# theme = "../.."
+# googleanalytics = "UA-113904582-3"
+#mdisqusShortname = "hugo-massively"
+
+# [params]
+  # set below parameter to define a favicon
+  # favicon = "favicon.ico"
+
+#Below parameters can be set to override default post settings
+[params.posts]
+    foldername = "post"
+    pagesize = "6"
+    featuredpost = "true"
+
+[languages]
+[languages.en]
+  languageName = "English"
+[languages.es]
+  languageName = "Español"
+  title = "Kathryn Plata - Versión Español"
+
