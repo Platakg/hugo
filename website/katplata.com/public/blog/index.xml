@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Title</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 28 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a Personal Website with Hugo</title>
+      <link>/blog/hello-hugo/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/hello-hugo/</guid>
+      <description>Since I have a few hours before my flight to Hanoi, I figured I have enough time to write a post and grab some food. About an hour ago I woke up at the Singapore Changi airport and thought to write a post on how I used Hugo to create this site.
+Hugo  is a static site generator that can be hosted anywhere (I&amp;rsquo;m using an S3 bucket). You can use CLI commands to create new websites and posts, or use your preferred text editor.</description>
+    </item>
+    
+    <item>
+      <title>Setting Up My Environment</title>
+      <link>/blog/first-post/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/first-post/</guid>
+      <description>I just treated myself to a new Macbook pro. My old MacBook was getting too bulky for my taste and starting to show signs of clunking out. I don&amp;rsquo;t anticipate to buy a new machine for the next 5 years, so I&amp;rsquo;d like outline my set up for when that day comes.
+(Sidenote: I&amp;rsquo;m currently awaiting my departing flight from SFO to SIN. In anticipation for this 16+ hour flight, I&amp;rsquo;d like to get this done so that I have something to play around with!</description>
+    </item>
+    
+  </channel>
+</rss>
