@@ -14,12 +14,12 @@ I just treated myself to a new Macbook pro. My old MacBook was getting too bulky
 ## Install Homebrew
 Brew makes it easy to install and manage packages on my mac.<br>
 ### Run:
- <i> ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install) </i>
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
 
 ## Install Python
 ### Run: 
-brew install python3 <br> 
-* To check the path for Python3: <i> which python3 </i>
+    brew install python3
+    which python3     # check destination path
 
 ## Install an IDE for Python</li>
 <a href="https://www.jetbrains.com/pycharm/download/#section=mac">PyCharm for Mac</a> 

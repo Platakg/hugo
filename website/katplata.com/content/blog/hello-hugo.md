@@ -5,22 +5,22 @@ date : "2018-10-28"
 
 ---
 
-<img src="images/website.JPG" alt="hello-hugo photo" style="width:542px;height:442px;"> 
+<img src="/images/website.jpg" alt="hello-hugo photo" style="width:542px;height:442px;padding:15px" align="left"> 
 
 Since I have a few hours before my flight to Hanoi, I figured I have enough time to write a post and grab some food. About an hour ago I woke up at the Singapore Changi airport and thought to write a post on how I used Hugo to create this site. 
 
-<a href="https://gohugo.io/about/what-is-hugo/"> Hugo </a> is a static site generator that can be hosted anywhere (I'm using an S3 bucket). You can use CLI commands to create new websites and posts, or use your preferred text editor.
+<a href="https://gohugo.io/about/what-is-hugo/"> Hugo </a> is a static site generator that can be hosted anywhere (I'm using an S3 bucket). You can use CLI commands to create new websites and posts and edit with your preferred text editor.
 
 
 ## Step 1. Install Hugo via Homebrew
 This is the easiest way to install hugo. If you don't have homebrew already installed, check out <a href="/blog/first-post"> this post.</a> <br>
 
 ### Run: 
-"brew install hugo"<br>
+    brew install hugo
 <br>
 To verify installtion
 ### Run:
-"hugo version"
+    hugo version
 Currently, I am using v0.49.2
 
 ## Step 2. Create a workspace directory:
@@ -34,7 +34,7 @@ Hugo sites are composed of a parent directory and many sub directories denoting 
 <a href="https://gohugo.io/getting-started/configuration/"> Hugo's Documentation for Config files (.yaml, .toml, .json examples also available)</a>
 
 ### Run:
-"hugo new site my-new-site"
+    hugo new site my-new-site
 
 This is will automatically create a new site template called "my-new-site", containing the necessary sub directories (archetypes, content, layouts, themes, data, static) and config file. <br>
 <img src="images/hugo-new-site.png" alt ="terminal screenshot">
@@ -63,7 +63,7 @@ Some themes are structured differently from others, so it's always worthwhile to
 <br>
 To create your first post:
 ### Run:
-"hugo new posts/first-post.md" 
+    hugo new posts/first-post.md
 <br>
 
 This will create a post called "first-post" under the "content" subdirectory. 
@@ -77,7 +77,7 @@ You can actually view your changes as your editing and saving in your editor. <b
 <br>
 To start the Hugo server: 
 ### Run:
-"hugo server" 
+    hugo server
 <br>
 <br>
 Once you've ran the command succesfully, you will be able to navigate to "localhost:1313" on your web browser of choice to see your changes. 

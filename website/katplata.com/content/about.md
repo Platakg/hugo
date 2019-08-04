@@ -4,10 +4,8 @@ date: 2018-12-08T23:05:33-05:00
 draft: false
 ---
 
-I'm a data scientist and wanderer interested in <b>many things</b>. 
+I studied economics and data analysis during my undergrad but ended up as a data scientist in a techical space. </br> Automation, computer vision, and AWS (aside from traveling and shopping) are among the myriad of things that catch my interest!
 
-I studied economics and data analysis during my undergrad but somehow ended up in the tech space. Computer vision, network analysis, and visualization are among the myriad of topics that catch my interest--along with traveling and shopping! 
+<img src="images/kat1.jpeg" alt="brunch is the best!" >
 
-<img src="images/kat1.png" alt="brunch" >
-
-I tend to jump around when it comes to learning new tools, languages, etc. so I plan to use this space to journal what I've learned from my tinkerings. 
+I jump around when it comes to learning new tools, languages, etc. so I plan to use this space to journal what I've learned from tinkering. 
